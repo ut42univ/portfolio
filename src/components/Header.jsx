@@ -16,7 +16,7 @@ const Header = () => {
                         <Link to="portfolio/blog">Blog</Link>
                     </li>
                     <li>
-                        <a href="#">SNS</a>
+                        <Link to="portfolio/About">About</Link>
                     </li>
                 </ul>
             </nav>
