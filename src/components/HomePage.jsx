@@ -11,7 +11,7 @@ const HomePage = () => {
       <div className="profile">
         <h3>プロフィール</h3>
         <p className="name">上原 拓也</p>
-        <p>長崎大学 情報データ科学部</p>
+        <p className='belong'>長崎大学 情報データ科学部</p>
         <p>色々な知識を吸収して，新しい何かを作るのが好き．</p>
         <p>
           趣味はクリエイティブなこと全般．プログラミングやデザイン，写真撮影など．<br />
